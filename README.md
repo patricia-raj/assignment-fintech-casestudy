@@ -55,8 +55,6 @@
 More than 700 enterprises in 69 countries rely on ComplyAdvantage to understand the risk of who they’re doing business with through the world's only global, real-time database of people and companies. The company actively identifies tens of thousands of risk events from millions of structured and unstructured data points every single day. 
 ComplyAdvantage has four global hubs located in New York, London, Singapore and Cluj-Napoca and is backed by Ontario Teachers’, Index Ventures and Balderton Capital.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 &nbsp;&nbsp;&nbsp;&nbsp;*ComplyAdvantage is the financial industry’s leading source of AI-driven financial crime risk data and detection technology. 
 Also, ComplyAdvantage offers a true hyperscale financial risk insight and AML data solution that leverages machine learning and natural language processing to help regulated organizations manage their risk obligations and prevent financial crime.
 
@@ -78,27 +76,32 @@ Also, ComplyAdvantage offers a true hyperscale financial risk insight and AML da
 
 
 ## <ins>Recommendations:</ins>
-
-
+<ins>  </ins>
+<ins>  </ins>   
+   
 > **Below picture demonstrates Big Tech expansion of Financial Services.**
 
-![BigTech Expansion](images/BigTech-Companies.png){width:100px;}
+<ins>  </ins>
+<ins>  </ins>
+
+![BigTech Expansion](images/BigTech-Companies.png)
 
 
-> **The next generation of RegTech solutions need to address the complex needs of compliance capability using digital solutions to focus on the end user; communicate efficiently, nimbly and flexibly; and act, think and importantly behave like humans.**
+> **The next generation of RegTech solutions need to address the complex needs of compliance capability using digital solutions to focus on the end user; communicate efficiently, nimbly and flexibly; and act, think and importantly behave like humans.**.  
 Below diagram describes the capabilities and products of RegTech yet to be addressed.**
 
-![Address RegTech expected capabilities](images/Future_RegTech_Capabilities.png){width:100px;}
-
+![Address RegTech expected capabilities](images/Future_RegTech_Capabilities.png)
 
 
 > **I would advise the RegTech company to expand their solution offer product and services using below technologies that would benefit the company and regulate the skyrocketing technicial expansion.**
 
-![Future of RegTech](images/NextGen-RegTechSolution.png){width:100px;}
+![Future of RegTech](images/NextGen-RegTechSolution.png)
 
 > **Technologies appropriate for my solution would be AWS Cloud services, AI, Deep learning, Block chain, IOT, Robertics, Predictive Analystics, NoSQL, Ansible, Docker and Machine learning.**
 
 
+<ins>  </ins>
+<ins>  </ins>
 
 
 ### <ins>Research Material</ins>
