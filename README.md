@@ -121,7 +121,6 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 - [X] **Technologies appropriate for my solution would be AWS Cloud services, AI, Deep learning, Block chain, IOT, Robertics, Predictive Analystics, NoSQL, Ansible, Docker and Machine learning.**
 <br/>
 <br/>
-<br/>
 
 ### <ins>Research Materials:</ins>
 
