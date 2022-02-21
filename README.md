@@ -84,6 +84,14 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 * RiskTech100® is acknowledged as the most comprehensive independent study of the world’s major players in risk and compliance technology. Using a robust, repeatable methodology, it ranks the top 100 risk technology providers and identifies the top players in specific risk and compliance categories.     
 * The company’s proprietary ComplyData™ graph is derived from millions of data points that provide dynamic, real-time insights across sanctions, watchlists, politically exposed persons, and negative news. This reduces dependence on **manual review processes and legacy databases by up to 80% and improves how companies screen and monitor clients and transactions.**
 
+> To summarize core metrics:
+>> * Risk and Compliance Management. <br/>
+>> * ID Management <br/>
+>> * Regulatory Reporting <br/>
+>> * AML and Fraud Management <br/>
+>> * Regulatory Intelligence <br/>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_Recent success_**
 * ComplyAdvantage Releases State Of Financial Crime Report Highlighting Emerging Threats for 2022.
     > Key hightlights :-  
