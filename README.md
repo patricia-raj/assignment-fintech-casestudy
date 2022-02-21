@@ -63,7 +63,7 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 - To expand further, the company offers AML onboarding and monitoring, AML transaction monitoring, payment screening, and politically exposed persons (PEPs) and adverse media screening. 
 - ComplyAdvantage also offers real-time sanctions and watch list screening using global lists maintained by the Office of Foreign Assets Control (OFAC), European Union (EU), United Nations (UN), Department of Foreign Affairs and Trade (DFAT), and other governmental, law enforcement, and regulatory databases.
 
-### <ins>5. The other major companiese:</ins>
+### <ins>5. The other major companies:</ins>
 
 | Companies | Investment Steps| Total Funding|
 | :-------------- | :------------------: | ------------------: |
@@ -95,18 +95,19 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 - [X] **The next generation of RegTech solutions need to address the complex needs of compliance capability using digital solutions to focus on the end user; communicate efficiently, nimbly and flexibly; and act, think and importantly behave like humans.**  
 **Below diagram describes the capabilities and products of RegTech yet to be addressed.**
 <br/>
+
 ![Address RegTech expected capabilities](images/Future_RegTech_Capabilities.png)
 <br/>
 <br/>
 
 - [X] **I would like to recommend the RegTech company to expand their solution and offer products and services using below technologies which would holistic and make it safe for human existance using the skyrocketing technicial expansion.**
 <br/>
+
 ![Future of RegTech](images/NextGen-RegTechSolution.png)
 <br/>
 <br/>
 
 - [X] **Technologies appropriate for my solution would be AWS Cloud services, AI, Deep learning, Block chain, IOT, Robertics, Predictive Analystics, NoSQL, Ansible, Docker and Machine learning.**
-
 <br/>
 <br/>
 <br/>
