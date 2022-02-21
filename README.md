@@ -28,9 +28,9 @@
 
 ## <ins>1. Company Overview :</ins>
 
-ComplyAdvantage, a global data technology company transforming financial crime detection. It’s powered by ComplyData,the world’s ==hyperscale source of financial risk insights.==   
-A new anti-money laundering (AML) program aimed at growth-focused startups called ComplyLaunch™ is launched.   
-The program provides qualified startups with free access to the company’s award-winning AML and Know Your Customer (KYC) tools and resources needed to uncover and reduce the threat of money-laundering activities so they can onboard new customers with lower risk and greater trust.    
+ComplyAdvantage, a global data technology company transforming financial crime detection. It’s powered by ComplyData,the world’s <mark>hyperscale source of financial risk insights.</mark>   
+A new <mark>anti-money laundering (AML) program </mark> aimed at growth-focused startups called ComplyLaunch™ is launched.   
+The program provides qualified startups with free access to the company’s award-winning AML and <mark>Know Your Customer (KYC) tools</mark> and resources needed to uncover and reduce the threat of money-laundering activities so they can onboard new customers with lower risk and greater trust.    
 
 
 |   Company |   Details|
@@ -51,7 +51,8 @@ The program provides qualified startups with free access to the company’s awar
 
 ### <ins>3. Business Activities:</ins>
 
-1. ComplyAdvantage helps firms make intelligent choices when complying with regulations relating to sanctions, money laundering (AML), terrorist financing (CFT), bribery, and corruption. Its database of individuals, organizations, and associated entities provides real-time insight into financial crime risks. ComplyAdvantage uses artificial intelligence, machine learning, and big data analytics combined with a tailored risk-based approach to help firms not only to manage their compliance and risk obligations, but also to prevent the occurrence of financial crime.
+1. ComplyAdvantage helps firms make intelligent choices when complying with <mark> regulations relating to sanctions, money laundering (AML), terrorist financing (CFT), bribery, and corruption.</mark> Its database of individuals, organizations, and associated entities provides real-time insight into financial crime risks. 
+ComplyAdvantage uses artificial intelligence, machine learning, and big data analytics combined with a **_tailored risk-based approach to help firms not only to manage their compliance and risk obligations, but also to prevent the occurrence of financial crime._**
 2. ComplyAdvantage’s mission is to neutralize the risk of money laundering, terrorist financing, corruption, and other financial crime.
 More than **_700 enterprises in 69 countries rely on ComplyAdvantage to understand the risk_** of who they’re doing business with through the world's only global, real-time database of people and companies.
 3. The company actively identifies tens of thousands of risk events from millions of structured and unstructured data points every single day. 
