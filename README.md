@@ -98,11 +98,13 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 ![Address RegTech expected capabilities](images/Future_RegTech_Capabilities.png)
 <br/>
 <br/>
+
 - [X] **I would like to recommend the RegTech company to expand their solution and offer products and services using below technologies which would holistic and make it safe for human existance using the skyrocketing technicial expansion.**
 <br/>
 ![Future of RegTech](images/NextGen-RegTechSolution.png)
 <br/>
 <br/>
+
 - [X] **Technologies appropriate for my solution would be AWS Cloud services, AI, Deep learning, Block chain, IOT, Robertics, Predictive Analystics, NoSQL, Ansible, Docker and Machine learning.**
 
 <br/>
