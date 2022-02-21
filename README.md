@@ -6,7 +6,7 @@
 2.  The main functions of regtech include regulatory monitoring, reporting, and compliance.    
 3.  It consists of a community of companies that help businesses comply with regulations efficiently and less expensively.    
 
->>> !!! Note: The global RegTech Market size is expected to **_grow USD 7.6 billion in 2021 to USD 19.5 billion by 2026_**, at a Compound Annual Growth Rate (CAGR) of 20.8%. 
+> !!! Note: The global RegTech Market size is expected to **_grow USD 7.6 billion in 2021 to USD 19.5 billion by 2026_**, at a Compound Annual Growth Rate (CAGR) of 20.8%. 
 
 
 ## <ins>RegTech Origin:</ins> 
@@ -28,7 +28,9 @@
 
 ## <ins>1. Company Overview :</ins>
 
-ComplyAdvantage, a global data technology company transforming financial crime detection. It’s powered by ComplyData,the world’s hyperscale source of financial risk insights. A new anti-money laundering (AML) program aimed at growth-focused startups called ComplyLaunch™ is launched. The program provides qualified startups with free access to the company’s award-winning AML and Know Your Customer (KYC) tools and resources needed to uncover and reduce the threat of money-laundering activities so they can onboard new customers with lower risk and greater trust.    
+ComplyAdvantage, a global data technology company transforming financial crime detection. It’s powered by ComplyData,the world’s ==hyperscale source of financial risk insights.==   
+A new anti-money laundering (AML) program aimed at growth-focused startups called ComplyLaunch™ is launched.   
+The program provides qualified startups with free access to the company’s award-winning AML and Know Your Customer (KYC) tools and resources needed to uncover and reduce the threat of money-laundering activities so they can onboard new customers with lower risk and greater trust.    
 
 
 |   Company |   Details|
@@ -81,7 +83,7 @@ It offers a true hyperscale financial risk insight and AML data solution that le
 * RiskTech100® is acknowledged as the most comprehensive independent study of the world’s major players in risk and compliance technology. Using a robust, repeatable methodology, it ranks the top 100 risk technology providers and identifies the top players in specific risk and compliance categories.     
 * The company’s proprietary ComplyData™ graph is derived from millions of data points that provide dynamic, real-time insights across sanctions, watchlists, politically exposed persons, and negative news. This reduces dependence on **manual review processes and legacy databases by up to 80% and improves how companies screen and monitor clients and transactions.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Recent success**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_Recent success_**
 * ComplyAdvantage Releases State Of Financial Crime Report Highlighting Emerging Threats for 2022.
     > Key hightlights :-  
     >> SAR filing rises <br/>
